@@ -1,3 +1,3 @@
-# TensorFlow-Object-Detection-and-Classification-Android-Example
+# 目标检测移动端实现
 使用ssd算法训练数据集
 使用TensorflowObjectDetectionAPI实现目标检测
